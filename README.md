@@ -19,6 +19,6 @@ Progresses throughout my project:
 
 -Week 8: making collectible health packets, adding a thorne trap that damages on collision.
 
--Week 9: adding two enemies, game over scene, instruction scene, and sound.
+-Week 9: adding two enemies, game over scene,credits scene, instruction scene, and sound.
 
 -week 10: final bug fixes, sounds for my game.
